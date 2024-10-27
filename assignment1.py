@@ -2,7 +2,7 @@
 CP1404 Assignment 1 - Travel Tracker
 Name: Siron Tommy Aban
 Date started: 27/10/24
-GitHub URL:
+GitHub URL: https://github.com/martinezstyrofoam/Assignment1
 """
 import random
 def main():
